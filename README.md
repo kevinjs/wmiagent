@@ -3,9 +3,9 @@
 A Windows monitor agent. Fetch data by using WMI(Windows Management Instrumentation).
 
 ##Requirement:
-1. Install [WMI Administrative Tools](http://www.microsoft.com/en-us/download/details.aspx?id=24045)
-2. Install [Python Win32 Extension](http://sourceforge.net/projects/pywin32/)
-3. Install [Python WMI](https://pypi.python.org/pypi/WMI)
+1. [WMI Administrative Tools](http://www.microsoft.com/en-us/download/details.aspx?id=24045)
+2. [Python Win32 Extension](http://sourceforge.net/projects/pywin32/)
+3. [Python WMI](https://pypi.python.org/pypi/WMI)
 
 ##Usage:
 
